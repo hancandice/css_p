@@ -3,14 +3,17 @@
 ---
 
 <br>
-
 ### Preview
 
-- Desktop ![screenshot-desktop](image/preview1.png)
+- Desktop
+
+![screenshot-desktop](image/preview1.png)
 
 <br>
 
-- Mobile ![screenshot-mobile](image/preview2.png)
+- Mobile
+
+![screenshot-mobile](image/preview2.png)
 
 ---
 
