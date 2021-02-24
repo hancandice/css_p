@@ -1,24 +1,3 @@
-# Youtube Responsive Webpage cloning with HTML, CSS, and Javascript
-
----
-
-<br>
-
-## Preview
-
-- Desktop
-
-![screenshot-desktop](image/preview1.png)
-
-<br>
-
-- Mobile
-
-![screenshot-mobile](image/preview2.png)
-
----
-
-<br>
 
 ## Try it out 👇🏼
 
